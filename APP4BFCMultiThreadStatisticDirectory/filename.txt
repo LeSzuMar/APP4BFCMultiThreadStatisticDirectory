@@ -1,0 +1,3 @@
+Hello My name is Marcin
+ im begginer in C++
+ everyday is a school day if you know what I mean 
